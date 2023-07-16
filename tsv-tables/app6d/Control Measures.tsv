@@ -452,8 +452,7 @@ Protection Areas				270000	For training or hierarchical purposes
 	Chemical Contaminated Area		Area	271800	
 		Toxic Industrial Material	Area	271801	
 	Nuclear Contaminated Area		Area	271900	
-	Radiological		Area	272000	
-	Contaminated Area			Area	
+	Radiological Contaminated Area		Area	272000	
 		Toxic Industrial Material	Area	272001	
 	Minimum Safe Distance Zone		Area	272100	
 	Radiation Dose Rate Contour Lines		Area	272200	
